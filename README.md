@@ -8,4 +8,4 @@ HTML CSS kodları
 
 <h2> Ekran Goruntusu </h2>
 
-![](udemig.gıf)
+![](udemig.gif)
